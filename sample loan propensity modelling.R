@@ -162,6 +162,7 @@ auc(test$Approved,as.numeric(predictions))
 
 #svm area under curve around 0.5 
 
+
 #From the above 3 models we choose random forest which has the highest Area under curve to score the final results
 
 #Loading the final scoring set
